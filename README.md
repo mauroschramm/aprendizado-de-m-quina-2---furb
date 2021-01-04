@@ -1,2 +1,9 @@
-# aprendizado-de-m-quina-2---furb
-Trabalho de avaliação da disciplina de Aprendizado de Máquina Não Supervisionado no curso de especialização em Data Science da FURB
+## FURB - Curso de Especialização em Data Science  - Turma 2
+## Disciplina de Aprendizado de Máquina II - Aprendizado Não Supervisionado
+### Professor Mácio Koch
+### Trabalho de avaliação 
+### Aluno: Mauro Schramm
+-------------------
+
+### Descrição Geral
+Trabalho desenvolvido na linguegm Python a partir do exeplo em Java desenvolvido pelo professor am aula

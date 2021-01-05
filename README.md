@@ -23,7 +23,10 @@ A figura abaixo apresenta a saída gerada pelo programa em uma execução
 ### Instruções para execução
 
 1. Crie um projeto no Google Colaboratory (https://colab.research.google.com/)
-2. Copie o [código do programa](./Eigen_Faces_Final.ipynb) e cole em uma seção de código do projeto recém criado
-3. Carregue os arquivos de imagem para a pasta raiz do sistema de arquivos no projeto do colab
+2. Copie o [código do programa](./Eigen_Faces_Final.ipynb) e cole em uma célula de código do projeto recém criado
+3. Carregue os arquivos de imagem para a pasta raiz do sistema de arquivos no projeto do colab (conforme figura abaixo)
+4. Execute a célula de código
+
+![ops](./aux/arquivos_eigen.JPG)
 
 

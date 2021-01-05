@@ -12,7 +12,7 @@ Trabalho desenvolvido na linguagem Python a partir do exemplo em Java desenvolvi
 ### Exemplo de execução
 A figura abaixo apresenta a saída gerada pelo programa em uma execução
 
-Inline-style: 
-![alt text](./aux/saida_eigen.JPG")
+ 
+![alt text](aux/saida_eigen.JPG")
 
 ![Alt text](relative/path/to/img.jpg?raw=true "Title")

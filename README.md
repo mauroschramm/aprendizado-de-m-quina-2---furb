@@ -13,4 +13,6 @@ Trabalho desenvolvido na linguagem Python a partir do exemplo em Java desenvolvi
 A figura abaixo apresenta a saída gerada pelo programa em uma execução
 
 Inline-style: 
-![alt text]https://github.com/mauroschramm/aprendizado-de-m-quina-2---furb/aux/saida_eigen.JPG
+![alt text](aux/saida_eigen.JPG"Título")
+
+![Alt text](relative/path/to/img.jpg?raw=true "Title")

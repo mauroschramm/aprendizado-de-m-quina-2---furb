@@ -6,6 +6,7 @@
 -------------------
 
 ### Descrição Geral
+
 Trabalho desenvolvido na linguagem Python a partir do exemplo em Java desenvolvido pelo professor em aula. Trata-se da aplicação da técnica de análise das componentes principais (PCA, na sigla em inglês) através da biblioteca de visão computacional OpenCV. Não foi realizada uma nova implementação do algoritmo da PCA.
 ---------------
 
@@ -13,6 +14,6 @@ Trabalho desenvolvido na linguagem Python a partir do exemplo em Java desenvolvi
 A figura abaixo apresenta a saída gerada pelo programa em uma execução
 
  
-![alt text](aux/saida_eigen.JPG")
+![ops](./aux/saida_eigen.JPG)
 
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+
